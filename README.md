@@ -7,3 +7,5 @@ The first part of this application provides a predictive map of UCF using a k-ne
 
 ![alt text](k-near_ucf_plot.tiff "Predicted user check-in frequency")
 
+
+![alt text](region_comparison.tiff "Region comparison")
