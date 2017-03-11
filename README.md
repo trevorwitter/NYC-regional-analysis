@@ -1,4 +1,4 @@
-# NYC_foursquare
+# NYC regional user activity 
 
 
 Provides predictive analysis of user activity for micro regions through the use of foursquare’s public API. 
